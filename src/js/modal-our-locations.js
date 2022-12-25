@@ -3,7 +3,7 @@ const refs = {
   closeModalBtn: document.querySelector('[data-close-modal-locations]'),
   modalwindow: document.querySelector('[data-modal-our-locations]'),
 };
-console.log(refs.openModalBtn);
+
 // const openModalBtn = document.querySelectorAll('[data-modal-window-open]');
 // openModalBtn.forEach(element => element.addEventListener('click', toggleModal));
 
